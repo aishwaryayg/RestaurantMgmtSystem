@@ -1,0 +1,2 @@
+# RestaurantMgmtSystem
+Core Java Project 
